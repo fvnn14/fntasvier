@@ -6,7 +6,7 @@ body {
     background-size: contain;
     color: #fff;
     <audio autoplay>
-    <source src="agora hills.mp3" type="audio/mpeg">
+    <source src="agora hills.mp3" type="audio/mp4">
   </audio>
   
 }
